@@ -9,7 +9,7 @@ function App() {
     <div>
       <Component1/>
       <Component2/>
-      <Component4/>
+      
     </div>
   );
 }

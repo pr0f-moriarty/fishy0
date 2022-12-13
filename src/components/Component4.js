@@ -10,7 +10,7 @@ const github_link =
 const Component4 = () => {
   return (
     <div className="component4" align="center">
-      <p className="developerInfo"> Developed by K </p>
+      <p className="developerInfo">  </p>
       <div className="socials">
         <a href={github_link}>
           <img

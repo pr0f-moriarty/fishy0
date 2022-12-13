@@ -1,6 +1,5 @@
 import React from "react";
 import "./Component1.scss";
-import phishinglogo from "../assets/Phishr.png";
 import Loading from "./Loader";
 import { useState } from "react";
 const axios = require("axios");
