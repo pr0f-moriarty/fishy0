@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/fishy0/static/css/main.10e3c40c.css",
-    "main.js": "/fishy0/static/js/main.3d0fb198.js",
-    "static/media/Phishing-Attacks.gif": "/fishy0/static/media/Phishing-Attacks.e013a3afa5cec2f227b6.gif",
-    "static/media/Phishr.png": "/fishy0/static/media/Phishr.564240a286f708000611.png",
+    "main.css": "/fishy0/static/css/main.5138e644.css",
+    "main.js": "/fishy0/static/js/main.b7322f06.js",
     "static/media/github.svg": "/fishy0/static/media/github.7ed6c27ba1e7213d4fcfcc5102c58a19.svg",
     "index.html": "/fishy0/index.html",
-    "main.10e3c40c.css.map": "/fishy0/static/css/main.10e3c40c.css.map",
-    "main.3d0fb198.js.map": "/fishy0/static/js/main.3d0fb198.js.map"
+    "main.5138e644.css.map": "/fishy0/static/css/main.5138e644.css.map",
+    "main.b7322f06.js.map": "/fishy0/static/js/main.b7322f06.js.map"
   },
   "entrypoints": [
-    "static/css/main.10e3c40c.css",
-    "static/js/main.3d0fb198.js"
+    "static/css/main.5138e644.css",
+    "static/js/main.b7322f06.js"
   ]
 }
